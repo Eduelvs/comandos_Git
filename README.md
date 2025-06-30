@@ -1,4 +1,4 @@
-# comandos_Git
+# Comandos GIT
 
 Procedimento para criação de feature 
 ```
