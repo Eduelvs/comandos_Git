@@ -45,5 +45,5 @@ ngrok start apireurb
 ```
 Login de Acesso Reurb
 
-email: ```lucasrl2003@a.com```
-Password:```12345678```
+email: ```********```
+Password:```*******```
